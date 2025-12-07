@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently I am working on strengthening my DSA skills and improving my React & backend development.<br>I’m open to collaborating on frontend projects, UI components, and beginner-friendly full-stack applications.<br>I’m looking for help with improving my backend skills and building scalable full-stack projects<br>I am currently learning React.js, Node.js, and strengthening my DSA fundamentals<br>Ask me about frontend development, UI design with Tailwind CSS, and solving DSA problems in Java.<br>I love solving errors and creating smooth, beautiful UI.
+🌱Currently I am working on strengthening my DSA skills and improving my React & backend development.<br> 💻I’m open to collaborating on frontend projects, UI components, and beginner-friendly full-stack applications.<br> 🎯I’m looking for help with improving my backend skills and building scalable full-stack projects<br> 📚I am currently learning React.js, Node.js, and strengthening my DSA fundamentals<br> 💭 Ask me about frontend development, UI design with Tailwind CSS, and solving DSA problems in Java.<br> 😄 I love solving errors and creating smooth, beautiful UI.
 
 
 ## 🌐 Socials:
